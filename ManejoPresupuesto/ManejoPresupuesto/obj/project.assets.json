@@ -6275,11 +6275,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ovand\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+      "projectUniqueName": "C:\\Users\\ovand\\source\\repos\\ManejoPresupuestoGIT\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
       "projectName": "ManejoPresupuesto",
-      "projectPath": "C:\\Users\\ovand\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+      "projectPath": "C:\\Users\\ovand\\source\\repos\\ManejoPresupuestoGIT\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
       "packagesPath": "C:\\Users\\ovand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ovand\\source\\repos\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\",
+      "outputPath": "C:\\Users\\ovand\\source\\repos\\ManejoPresupuestoGIT\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

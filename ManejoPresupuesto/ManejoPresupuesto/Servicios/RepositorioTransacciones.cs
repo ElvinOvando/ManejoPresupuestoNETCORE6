@@ -7,7 +7,7 @@ namespace ManejoPresupuesto.Servicios
 
     public interface IRepositorioTransacciones
     {
-        Task Actualizar(Transaccion transaccion, int montoAnterior, int cuentaAnterior);
+        Task Actualizar(Transaccion transaccion, decimal montoAnterior, int cuentaAnterior);
         Task Borrar(int id);
         Task Crear(Transaccion transaccion);
         Task<IEnumerable<Transaccion>> ObtenerPorCuentaId(ObtenerTransaccionesPorCuenta modelo);
@@ -76,7 +76,7 @@ namespace ManejoPresupuesto.Servicios
 
         }
 
-        public async Task Actualizar(Transaccion transaccion, int montoAnterior, int cuentaAnteriorId)
+        public async Task Actualizar(Transaccion transaccion, decimal montoAnterior, int cuentaAnteriorId)
         { 
             using var connection = new SqlConnection(connectionString);
             await connection.ExecuteAsync("Transacciones_Actualizar",

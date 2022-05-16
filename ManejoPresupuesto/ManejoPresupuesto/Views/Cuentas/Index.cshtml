@@ -3,12 +3,12 @@
 @{
     ViewData["Title"] = "Cuentas";
 
-    string FormatearBalance(int balance)
+    string FormatearBalance(decimal balance)
     {
-        return Math.Abs(balance).ToString("N");
+        return Math.Abs(balance).ToString("N0");
     }
 
-    string  ObtenerClaseBalance(int Balance)
+    string  ObtenerClaseBalance(decimal Balance)
     {
         return Balance >= 0 ? "activo" : "pasivo";
     }

@@ -2,9 +2,9 @@
 {
     public class ResumenMontosViewModel
     {
-        public int Ingresos { get; set; }
-        public int Gastos { get; set; }
-        public int Total { get; set; }
+        public decimal Ingresos { get; set; }
+        public decimal Gastos { get; set; }
+        public decimal Total { get; set; }
 
     }
 }

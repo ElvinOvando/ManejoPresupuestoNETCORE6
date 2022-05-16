@@ -12,7 +12,7 @@ namespace ManejoPresupuesto.Models
         public  string Nombre { get; set; }
         [Display(Name = "Tipo Cuenta")]
         public int TipoCuentaId { get; set; }
-        public int Balance { get; set; }
+        public decimal Balance { get; set; }
         [StringLength(maximumLength: 1000)]
         public string Descripcion { get; set; }
         public string TipoCuenta { get; set; }

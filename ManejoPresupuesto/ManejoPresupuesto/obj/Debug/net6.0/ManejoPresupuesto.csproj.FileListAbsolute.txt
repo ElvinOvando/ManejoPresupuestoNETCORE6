@@ -72,9 +72,6 @@ C:\Users\ovand\source\repos\ManejoPresupuestoGIT\ManejoPresupuesto\ManejoPresupu
 C:\Users\ovand\source\repos\ManejoPresupuestoGIT\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ovand\source\repos\ManejoPresupuestoGIT\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.RazorAssemblyInfo.cache
 C:\Users\ovand\source\repos\ManejoPresupuestoGIT\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.RazorAssemblyInfo.cs
-C:\Users\ovand\source\repos\ManejoPresupuestoGIT\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.dll
-C:\Users\ovand\source\repos\ManejoPresupuestoGIT\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\refint\ManejoPresupuesto.dll
-C:\Users\ovand\source\repos\ManejoPresupuestoGIT\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.pdb
 C:\Users\ovand\source\repos\ManejoPresupuestoGIT\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\ovand\source\repos\ManejoPresupuestoGIT\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\appsettings.json
 C:\Users\ovand\source\repos\ManejoPresupuestoGIT\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\ManejoPresupuesto.staticwebassets.runtime.json
@@ -128,5 +125,8 @@ C:\Users\ovand\source\repos\ManejoPresupuestoGIT\ManejoPresupuesto\ManejoPresupu
 C:\Users\ovand\source\repos\ManejoPresupuestoGIT\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\scopedcss\bundle\ManejoPresupuesto.styles.css
 C:\Users\ovand\source\repos\ManejoPresupuestoGIT\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\scopedcss\projectbundle\ManejoPresupuesto.bundle.scp.css
 C:\Users\ovand\source\repos\ManejoPresupuestoGIT\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.csproj.CopyComplete
+C:\Users\ovand\source\repos\ManejoPresupuestoGIT\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.dll
+C:\Users\ovand\source\repos\ManejoPresupuestoGIT\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\refint\ManejoPresupuesto.dll
+C:\Users\ovand\source\repos\ManejoPresupuestoGIT\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.pdb
 C:\Users\ovand\source\repos\ManejoPresupuestoGIT\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.genruntimeconfig.cache
 C:\Users\ovand\source\repos\ManejoPresupuestoGIT\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ref\ManejoPresupuesto.dll

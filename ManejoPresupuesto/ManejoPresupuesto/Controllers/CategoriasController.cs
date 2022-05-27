@@ -101,7 +101,7 @@ namespace ManejoPresupuesto.Controllers
             return View(categoria);
 
         }
-
+        //comentario
         [HttpPost]
         public async Task<IActionResult> BorrarCategoria(int id)
         {
